@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import EdList from 'pages/EdList/EdList';
+import EdList from 'components/EdList/EdList';
 import { fetchTrend } from 'Api/Api';
 import Loader from 'components/Loader/Loader';
 
